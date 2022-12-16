@@ -1,0 +1,14 @@
+{
+  "resourceName": "j4passets",
+  "policyUUID": "b9277b52",
+  "bucketName": "just4petsamplifiedabc1a29e6f2b49d8a8c4fd77cc7e7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerbf896c5c",
+  "groupAccess": {}
+}
